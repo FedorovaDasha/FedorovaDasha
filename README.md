@@ -1,19 +1,9 @@
 ### 👋Hi, I'm Daria Fedorova!
-### ✨ I'm start python developer !
+### ✨ I'm beginner python developer .
 <img src="https://media3.giphy.com/media/320DfGXqFd5stx7yWS/200w.webp?cid=ecf05e475p7fcn4mhzukou2luydge6azbj78k7qjtqpv6g13&ep=v1_gifs_search&rid=200w.webp&ct=g" width="100"/>
 
 ### Stack of technology:
-* Python 
-* Django
-* Django REST Framework
-* SQL
-* PostgreSQL
-* Docker
-* Git
-* Nginx
-* Gunicorn
-* Ya.Cloud
-* Telegrambot
+Python / Django / Django REST Framework / SQL / PostgreSQL / Docker / Git / Nginx /  Gunicorn / Ya.Cloud / Telegrambot
 
 ### Contact me
 <div id="badges">
@@ -23,7 +13,7 @@
   <a href="mailto:dnfedorova@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-lightblue?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
-  <a href="https://t.me.dnfedorova">
+  <a href="https://t.me/DNFedorova">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
