@@ -18,6 +18,7 @@ Python / Django / Django REST Framework / SQL / PostgreSQL / Docker / Git / Ngin
 * <a href="https://github.com/FedorovaDasha/foodgram-project-react">Foodgram</a>
 * <a href="https://github.com/FedorovaDasha/django_sprint4">Blogicum</a>
 * <a href="https://github.com/FedorovaDasha/kittygram_final">Kittygram</a>
+* <a href="https://github.com/FedorovaDasha/api_yamdb_ready">API-reviews</a>
 ##
 
 ### Contact me
