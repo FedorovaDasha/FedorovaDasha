@@ -1,4 +1,3 @@
-##
 ## <div align=center>👋Hi, I'm Daria Fedorova!</div>
 
 ### <div align=center>👩‍💻 I'm a beginning python developer .</div>
