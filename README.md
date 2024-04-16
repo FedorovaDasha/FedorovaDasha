@@ -20,7 +20,9 @@ Python / Django / Django REST Framework / SQL / PostgreSQL / Docker / Git / Ngin
 * <a href="https://github.com/FedorovaDasha/kittygram_final">Kittygram</a>
 * <a href="https://github.com/FedorovaDasha/api_yamdb_ready">API-reviews</a>
 ##
-
+### Command projects:
+* <a href="https://github.com/FedorovaDasha/find_friend_backend">Find-friend</a>
+##
 ### Contact me
 <div id="badges">
   <a href="https://linkedin.com/in/dnfedorova">
