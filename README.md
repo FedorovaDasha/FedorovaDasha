@@ -22,6 +22,7 @@ Python / Django / Django REST Framework / SQL / PostgreSQL / Docker / Git / Ngin
 ##
 ### Command projects:
 * <a href="https://github.com/FedorovaDasha/find_friend_backend">Find-friend</a>
+* <a href="https://github.com/Team-number-5-hackathon/Dashboard">Dashboard_Rosbank</a>
 ##
 ### Contact me
 <div id="badges">
